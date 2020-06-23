@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=QueueTest
+comment0.text=\r\n\ The\ test\ class\ QueueTest\ tests\ the\ Queue\ class.\r\n\r\n\ @author\ \ Valerie\ Foster\r\n\ @version\ 3/15/2018\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testAdd()
+comment3.params=
+comment3.target=void\ testRemove()
+comment4.params=
+comment4.target=void\ testPrecon()
+comment5.params=
+comment5.target=void\ testPeek()
+comment6.params=
+comment6.target=void\ testIsEmpty()
+numComments=7

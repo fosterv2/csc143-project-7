@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Tech
+comment0.text=\r\n\ The\ class\ Tech\ has\ information\ about\ a\ tech\ and\ accessor\ methods\ to\ retrieve\ the\ information.\r\n\r\n\ @author\ \ Valerie\ Foster\r\n\ @version\ 3/15/2018\r\n
+comment1.params=id\ fName\ lName\ userName\ schedule
+comment1.target=Tech(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tech\r\n\ \r\n\ @param\ \ \ id\ \ \ \ \ \ \ \ \ \ an\ id\ for\ identifying\ this\ Tech\r\n\ @param\ \ \ fName\ \ \ \ \ \ \ a\ first\ name\ for\ the\ Tech\r\n\ @param\ \ \ lName\ \ \ \ \ \ \ a\ last\ name\ for\ the\ Tech\r\n\ @param\ \ \ userName\ \ \ \ a\ userName\ for\ the\ Tech\r\n\ @param\ \ \ schedule\ \ \ \ a\ number\ for\ the\ schedule\ for\ the\ Tech\r\n
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment2.text=\r\n\ An\ accessor\ method\ -\ returns\ an\ id\ for\ the\ tech\r\n\r\n\ @return\ \ \ \ the\ id\ of\ this\ Tech,\ a\ String\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFName()
+comment3.text=\r\n\ An\ accessor\ method\ -\ returns\ a\ first\ name\ for\ the\ tech\r\n\r\n\ @return\ \ \ \ the\ fName\ of\ this\ Tech,\ a\ String\r\n
+comment4.params=
+comment4.target=java.lang.String\ getLName()
+comment4.text=\r\n\ An\ accessor\ method\ -\ returns\ a\ last\ name\ for\ the\ tech\r\n\r\n\ @return\ \ \ \ the\ lName\ of\ this\ Tech,\ a\ String\r\n
+comment5.params=
+comment5.target=java.lang.String\ getUserName()
+comment5.text=\r\n\ An\ accessor\ method\ -\ returns\ a\ username\ for\ the\ tech\r\n\r\n\ @return\ \ \ \ the\ userName\ of\ this\ Tech,\ a\ String\r\n
+comment6.params=
+comment6.target=int\ getSchedule()
+comment6.text=\r\n\ An\ accessor\ method\ -\ returns\ a\ number\ representation\ of\ a\ scedule\ for\ the\ tech\r\n\r\n\ @return\ \ \ \ the\ schedule\ of\ this\ Tech,\ an\ Integer\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\ \r\n\ Creates\ and\ returns\ a\ string\ representation\ of\ this\ tech\r\n\ \r\n\ @return\ \ a\ String\ showing\ basic\ information\ about\ the\ Tech\r\n
+numComments=8

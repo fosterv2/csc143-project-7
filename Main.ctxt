@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ The\ class\ Main\ uses\ a\ main\ method\ to\ gather\ data\ to\ pass\ to\ Simulation\ by\ interacting\ with\ the\ user.\ It\ also\ has\ helper\ methods\ to\ do\ this.\ \r\n\r\n\ @author\ \ Valerie\ Foster\r\n\ @version\ 3/15/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=console\ value\ min\ max
+comment2.target=int\ getInRangeInt(java.util.Scanner,\ int,\ int,\ int)
+comment3.params=console\ value\ min\ max
+comment3.target=double\ getInRangeDouble(java.util.Scanner,\ double,\ double,\ double)
+numComments=4
